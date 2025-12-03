@@ -12,11 +12,16 @@
 Многопоточное программирование (ThreadPool), GUI
 ### [Чат](https://github.com/yutsiro/NSU-JAVA/tree/main/new_chat)
 Сетевое программирование, сериализация объектов, XML
-## Сети
+## Сети - 4 семестр
 ### [Маршрутизатор + DHCP](https://github.com/yutsiro/NSU-JAVA/tree/main/router/src)
 Клиент-сервер, обработка ping-запросов, реализация DHCP протокола
 ### [DNS](https://github.com/yutsiro/NSU-JAVA/tree/main/dns/src)
 DNS-сервер, регистрация доменных имен, мультикаст для обнаружения DNS-сервера
 ### [NAT](https://github.com/yutsiro/NSU-JAVA/tree/main/nat/src)
 Взаимодействие узлов из локальной и внешней сети с поддержкой NAT
+## Сети - 5 семестр
+### [Обнаружение копий себя в локальной сети](https://github.com/yutsiro/NSU-JAVA/tree/main/nets_l1/src)
+Приложение, обнаруживающее копии себя в локальной сети с помощью обмена multicast UDP сообщениями.
+### [Передача файла по TCP с подсчётом скорости передачи данных](https://github.com/yutsiro/NSU-JAVA/tree/main/nets_l2)
+Клиент-сервер, реализующие протокол передачи произвольного файла с одного компьютера на другой.
 
