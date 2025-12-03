@@ -13,8 +13,8 @@ public class LocationService {
     private final ApiClient apiClient;
     private final ObjectMapper mapper;
 
-    private static final String GRAPHHOPPER_API_KEY = "f01dc2e8-f1d2-40df-b634-24983572f07f";
-    private static final String OPENWEATHER_API_KEY = "c5981fbf8fe3d92b59d0c94e43a64820";
+    private static final String GRAPHHOPPER_API_KEY = "deleted";
+    private static final String OPENWEATHER_API_KEY = "deleted";
 
     public LocationService() {
         this.apiClient = new ApiClient();
