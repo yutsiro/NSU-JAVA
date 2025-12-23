@@ -1,0 +1,7 @@
+height=15
+width=15
+food_static=2
+name=game
+delay=300
+can_join=true
+player=player
